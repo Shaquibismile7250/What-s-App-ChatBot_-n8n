@@ -13,3 +13,6 @@ Or deploy with Docker:
 - docker volume create n8n_data
 - docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
 <img width="1582" height="836" alt="image" src="https://github.com/user-attachments/assets/c154ff83-78ca-4635-9fa5-2f65e6fe07fe" />
+
+Mohammad Shaquib
+E-mail: con.shaquib@gmail.com
