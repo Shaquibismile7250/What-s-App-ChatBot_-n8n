@@ -1,4 +1,6 @@
 # What-s-App-ChatBot_-n8n
+<img width="829" height="225" alt="image" src="https://github.com/user-attachments/assets/efe12183-4fe7-4142-9ac9-23911f629393" />
+
 Automate and streamline conversations by integrating your chatbot with n8n workflows. With n8n, you can connect your chatbot to multiple services.
 This enables your bot to:
       Respond to user queries in real-time.
@@ -20,3 +22,6 @@ Try n8n instantly with npx (requires Node.js):
 Or deploy with Docker:
 - docker volume create n8n_data
 - docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
+
+<img width="914" height="448" alt="image" src="https://github.com/user-attachments/assets/4eca71b2-2493-4467-9816-15887ad94912" />
+
